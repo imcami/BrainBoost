@@ -4,12 +4,11 @@ import NavBar from '../../components/NavBar/Navbar';
 function Landing (){
     return(
         <div>
-             <header>
+             
            <NavBar/>
-        </header>
         <main>
           <section>
-            <h1>Personaliza Tus Entrenamientos</h1>
+            <h1>Para Todos tus Entrenamientos preparate en Brain Boost</h1>
             <button>Planes</button>
           </section> 
         </main>

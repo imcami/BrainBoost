@@ -13,8 +13,7 @@ function App() {
        <NavBar/>
         <Routes>  
           <Route exact path="/" element={<Landing/>} />
-          <Route exact path='*' element={<Error404/>} />
-        </Routes> 
+          </Routes> 
         </div>
       </BrowserRouter>
   )
